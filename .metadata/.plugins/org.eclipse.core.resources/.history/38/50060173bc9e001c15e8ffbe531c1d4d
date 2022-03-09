@@ -1,0 +1,19 @@
+package com.juaracoding.Junit;
+
+import static org.junit.Assert.*;
+
+import org.junit.Before;
+import org.junit.Test;
+
+public class TestPajak {
+
+	@Before
+	public void setUp() throws Exception {
+	}
+
+	@Test
+	public void testHitungPajak() {
+		fail("Not yet implemented");
+	}
+
+}

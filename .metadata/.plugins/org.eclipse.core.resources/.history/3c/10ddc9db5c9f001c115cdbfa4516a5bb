@@ -1,0 +1,54 @@
+package com.juaracoding.junit2;
+
+import static org.junit.Assert.*;
+
+import org.junit.Before;
+import org.junit.Test;
+
+public class TestPasien {
+
+	@Before
+	public void setUp() throws Exception {
+	}
+
+	@Test
+	public void testGetId() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testSetId() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetNama() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testSetNama() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetKelas() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testSetKelas() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetMenginap() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testSetMenginap() {
+		fail("Not yet implemented");
+	}
+
+}

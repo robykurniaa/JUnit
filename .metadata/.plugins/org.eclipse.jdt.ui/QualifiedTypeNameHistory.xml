@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.juaracoding.Junit.array.DataArray"/>
+    <fullyQualifiedTypeName name="com.juaracoding.Junit.Calculator"/>
+    <fullyQualifiedTypeName name="com.juaracoding.Junit.bangunruang.VolumeBangunRuang"/>
+    <fullyQualifiedTypeName name="com.juaracoding.Junit.pajak.Pajak"/>
+    <fullyQualifiedTypeName name="com.juaracoding.Junit.TestPajak"/>
+    <fullyQualifiedTypeName name="com.juaracoding.Junit.TestDataArray"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.SuppressWarnings"/>
+    <fullyQualifiedTypeName name="org.junit.Ignore"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.juaracoding.junit2.pasien.Pasien"/>
+    <fullyQualifiedTypeName name="com.juaracoding.junit2.pasien.TagihanMenginap"/>
+</qualifiedTypeNameHistroy>

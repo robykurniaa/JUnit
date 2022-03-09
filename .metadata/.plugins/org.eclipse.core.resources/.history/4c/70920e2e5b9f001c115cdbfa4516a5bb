@@ -1,0 +1,13 @@
+package com.juaracoding.junit2.pasien;
+
+public class Pasien {
+	
+	public int Vip(int harga, int limit) {
+		return harga*limit;
+	}
+	
+	public int Kelas1(int harga, int limit) {
+		return harga*limit;
+	}
+
+}

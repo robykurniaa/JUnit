@@ -1,0 +1,28 @@
+package com.juaracoding.junit2;
+
+import static org.junit.Assert.*;
+
+import org.junit.Before;
+import org.junit.Test;
+
+import com.juaracoding.junit2.pasien.Pasien;
+
+public class TestPasien {
+	Pasien pasien;
+	int harga, limit;
+	
+	@Test
+	public void testVip() {
+		int actual = pasien.Vip(harga = 250000, limit = 3);
+		int expect = 750000;
+		assertEquals(expect, actual);
+	}
+
+	@Test
+	public void testKelas1() {
+	int actual = pasien.Kelas1(harga = 200000, limit = 4);
+	int expect = 800000;
+	assertEquals(expect, actual);
+	}
+
+}
