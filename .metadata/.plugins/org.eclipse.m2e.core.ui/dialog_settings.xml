@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Java\JUnit\com.juaracoding"/>
 			<item value="C:\Java\JUnit\JUnitTest\src"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -45,15 +46,13 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.juaracoding.junit2"/>
 			<item value="com.juaracoding"/>
 		</list>
 		<list key="name">
 			<item value="Belajar JUnit"/>
 		</list>
 		<list key="artifactId">
-			<item value="com.juaracoding"/>
-			<item value="com.juaracoding.Junit"/>
+			<item value="com.juaracoding.junit3"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

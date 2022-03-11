@@ -35,6 +35,20 @@ public class TestBangunDatar {
 		}
 	}
 	
+	@Test
+	public void testLuasPersegiPanjang() {
+		for (String isi : readFile("persegipanjang.csv")) {
+			String data[] = isi.split(",");
+			
+			String p = data[0];
+			String l = data[1];
+			String expect = data[2];
+			
+			System.out.println(p +" "+ l +" " + expect);
+			
+			assertEquals(Double.parseDouble(expect), bangunDatar.LuasPerasegiPanjang(Double.parseDouble(p),Double.parseDouble(l)), 0.0);
+		}
+	}
 	public List<String> readFile(String nameFile){
 		List<String> penampung = new ArrayList<String>();
 		
