@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-16T15:52:16 ICT" name="Default suite" finished-at="2022-03-16T15:52:31 ICT" duration-ms="14316">
+    <groups>
+    </groups>
+    <test started-at="2022-03-16T15:52:16 ICT" name="Default test" finished-at="2022-03-16T15:52:31 ICT" duration-ms="14316">
+      <class name="com.juaracoidng.restassured.Test02_CRUD">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.juaracoidng.restassured.Test02_CRUD@7f552bd3]" started-at="2022-03-16T15:52:17 ICT" name="setUp" finished-at="2022-03-16T15:52:17 ICT" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test01_post()[pri:0, instance:com.juaracoidng.restassured.Test02_CRUD@7f552bd3]" started-at="2022-03-16T15:52:17 ICT" name="test01_post" finished-at="2022-03-16T15:52:29 ICT" duration-ms="12118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01_post -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.juaracoidng.restassured.Test02_CRUD@7f552bd3]" started-at="2022-03-16T15:52:29 ICT" name="setUp" finished-at="2022-03-16T15:52:29 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test02_update()[pri:0, instance:com.juaracoidng.restassured.Test02_CRUD@7f552bd3]" started-at="2022-03-16T15:52:29 ICT" name="test02_update" finished-at="2022-03-16T15:52:30 ICT" duration-ms="1110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02_update -->
+        <test-method signature="test03_delete()[pri:0, instance:com.juaracoidng.restassured.Test02_CRUD@7f552bd3]" started-at="2022-03-16T15:52:30 ICT" name="test03_delete" finished-at="2022-03-16T15:52:31 ICT" duration-ms="875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03_delete -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.juaracoidng.restassured.Test02_CRUD@7f552bd3]" started-at="2022-03-16T15:52:30 ICT" name="setUp" finished-at="2022-03-16T15:52:30 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- com.juaracoidng.restassured.Test02_CRUD -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
